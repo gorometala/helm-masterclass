@@ -23,9 +23,5 @@ exports:
     mychart1appInfo:
       appName: kapp1
       appType: MicroService
-      appDescription: Used for listing products   
-
- 
-
-
+      appDescription: Used for listing products
 

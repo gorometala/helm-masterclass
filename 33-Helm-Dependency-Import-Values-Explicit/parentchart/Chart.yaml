@@ -9,7 +9,7 @@ dependencies:
   version: "0.1.0"
   repository: "file://charts/mychart1"
   alias: childchart1
-  tags: 
+  tags:
     - frontend
   import-values:
     - mychart1Data # Import Values Explicit
@@ -17,5 +17,6 @@ dependencies:
   version: "0.4.0"
   repository: "file://charts/mychart2"
   alias: childchart2
-  tags: 
+  tags:
     - backend
+
